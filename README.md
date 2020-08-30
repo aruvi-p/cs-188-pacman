@@ -1,14 +1,9 @@
 # Berkeley-AI-Pacman-Projects
 
 My solutions for the UC Berkeley CS188 Intro to AI Pacman Projects. The completed projects include:
-- Project 1: Search
-- Project 2: Multi-Agent Search
-- Project 3: Reinforcement Learning (With an extra NN class)
-
-
-- Project 1 : DFS, BFS, UCS, A* (Heuristics) Search
-- Project 2 : Games : Reflex agent, MiniMax, alpha-beta pruning, Expectimax, Evaulation 
-- Project 3 : MDP, Q-Learning, Reinforcement Learning
+- Project 1: Search (DFS, BFS, UCS, A* (Heuristics))
+- Project 2: Multi-Agent (Games : Reflex agent, MiniMax, alpha-beta pruning, Expectimax, Evaulation)
+- Project 3: Reinforcement Learning  (MDP, Q-Learning, Reinforcement Learning)
 
 ## License Information
 
